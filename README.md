@@ -94,4 +94,4 @@ ndvi_time_series.csv      Generated raw data (example run)
 ## About
 
 Geospatial data automation for agriculture — combining field-level agronomic knowledge with GIS, remote sensing, and Python automation to deliver monitoring tools that
-are both technically sound and agronomically meaningful.
+are both technically sound and agronomically relevant.
